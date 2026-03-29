@@ -36,6 +36,7 @@ h1 {
 .cor1 {
     background-color: #ED145B;
     order: 1;
+    align-self: flex-start;
 }
 
 .cor2 {
@@ -54,6 +55,7 @@ h1 {
     width: 80%;
     margin: auto;
     text-align: left;
+
 }
 
 .footer {
